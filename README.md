@@ -136,7 +136,6 @@ hwfly工具箱，hwfly芯片专用，支持不可更新固件的hwfly芯片免�
 [Hekate](https://github.com/CTCaer/hekate)<br>
 [wiliwili](https://github.com/xfangfang/wiliwili)<br>
 [Lockpick_RCM_Pro](https://github.com/sthetix/Lockpick_RCM_Pro)<br>
-[Ultra-Paw-Overlay](https://github.com/Ultra-NX/Ultra-Paw-Overlay)<br>
 [DBI](https://github.com/rashevskyv/dbi)<br>
 [DBI中文版 by:时鹏亮](https://shipengliang.com/games/%E7%AB%AF%E5%8D%88%E8%8A%82%E5%84%BF%E7%AB%A5%E8%8A%82%E7%A4%BC%E7%89%A9%EF%BC%9A%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91-dbi-%E4%B8%AD%E6%96%87%E7%89%88.html)<br>
 [aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater)<br>
@@ -159,7 +158,6 @@ hwfly工具箱，hwfly芯片专用，支持不可更新固件的hwfly芯片免�
 [NX-OVLLOADER](https://github.com/ppkantorski/nx-ovlloader)<br>
 [Ultrahand Overlay](https://github.com/ppkantorski/Ultrahand-Overlay)<br>
 [SaltyNX](https://github.com/masagrator/SaltyNX)<br>
-[nim patch](https://github.com/fruityloops1/nim-prodinfo-blank-fix/)<br>
 [QuickNTP](https://github.com/nedex/QuickNTP/)<br>
 [sys-patch](https://github.com/impeeza/sys-patch)<br>
 [Tencent-switcher-GUI_Rebulid](https://github.com/Cirrest/Tencent-switcher-GUI_Rebulid)<br>
