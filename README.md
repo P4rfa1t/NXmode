@@ -56,7 +56,7 @@
 > 该整合包已添加CommonProblemResolver救砖插件 <br> 可Hekate下删除主题和关闭插件自动启动<br>
 > 启动路径:hekate启动器-更多设置-CommonProblemResolver <br>
 > 进去1是关闭插件自启动，2是删除安装的主题，有效解决进不去HOS系统的故障<br>
-> 更详细说明请见[官方说明](https://github.com/zdm65477730/CommonProblemResolver/)
+> 更详细说明请见[官方说明](https://github.com/Team-Neptune/CommonProblemResolver/)
 
 
 <br>
@@ -135,7 +135,7 @@ hwfly工具箱，hwfly芯片专用，支持不可更新固件的hwfly芯片免�
 [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere?tab=readme-ov-file)<br>
 [Hekate](https://github.com/CTCaer/hekate)<br>
 [wiliwili](https://github.com/xfangfang/wiliwili)<br>
-[Lockpick_RCM](https://github.com/Decscots/Lockpick_RCM/releases)<br>
+[Lockpick_RCM_Pro](https://github.com/sthetix/Lockpick_RCM_Pro)<br>
 [Ultra-Paw-Overlay](https://github.com/Ultra-NX/Ultra-Paw-Overlay)<br>
 [DBI](https://github.com/rashevskyv/dbi)<br>
 [DBI中文版 by:时鹏亮](https://shipengliang.com/games/%E7%AB%AF%E5%8D%88%E8%8A%82%E5%84%BF%E7%AB%A5%E8%8A%82%E7%A4%BC%E7%89%A9%EF%BC%9A%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91-dbi-%E4%B8%AD%E6%96%87%E7%89%88.html)<br>
@@ -156,18 +156,19 @@ hwfly工具箱，hwfly芯片专用，支持不可更新固件的hwfly芯片免�
 [SysDVR](https://github.com/exelix11/SysDVR)<br>
 [Thmerzer](https://themezer.net/)<br>
 [tinfoil](https://tinfoil.io/)<br>
-[CommonProblemResolver](https://github.com/zdm65477730/CommonProblemResolver/?tab=readme-ov-file#commonproblemresolver-cpr)<br>
+[CommonProblemResolver](https://github.com/Team-Neptune/CommonProblemResolver)<br>
 [NX-OVLLOADER](https://github.com/ppkantorski/nx-ovlloader)<br>
 [Ultrahand Overlay](https://github.com/ppkantorski/Ultrahand-Overlay)<br>
 [SaltyNX](https://github.com/masagrator/SaltyNX)<br>
-[OC-Switchcraft-EOS](https://github.com/halop/OC-Switchcraft-EOS)<br>
+[OC-Switchcraft-EOS](https://github.com/halop/OC-Switchcraft-EOS)(已停止维护，后续继任项目为 [Horizon-OC](https://github.com/Horizon-OC/Horizon-OC))<br>
 [nim patch](https://github.com/fruityloops1/nim-prodinfo-blank-fix/)<br>
 [QuickNTP](https://github.com/nedex/QuickNTP/)<br>
 [sys-patch](https://github.com/impeeza/sys-patch)<br>
 [Tencent-switcher-GUI](https://github.com/CaiMiao/Tencent-switcher-GUI)<br>
+[Tencent-switcher-GUI_Rebulid](https://github.com/Cirrest/Tencent-switcher-GUI_Rebulid)<br>
 [Goldleaf](https://github.com/XorTroll/Goldleaf)<br>
 [FPSLocker](https://github.com/masagrator/FPSLocker)<br>
-[Status-Monitor-Overlay](https://github.com/masagrator/Status-Monitor-Overlay)<br>
+[Status-Monitor-Deux](https://github.com/masagrator/Status-Monitor-Deux)<br>
 [haku33](https://github.com/StarDustCFW/Haku33/releases)<br>
 [ReverseNX-RT](https://github.com/masagrator/ReverseNX-RT)<br>
 [Horizon-OC](https://github.com/Horizon-OC/Horizon-OC)<br>
